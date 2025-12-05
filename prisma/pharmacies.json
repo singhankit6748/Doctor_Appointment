@@ -1,0 +1,295 @@
+[
+  {
+    "name": "shri sai medicals",
+    "lat": 21.1023385,
+    "lng": 79.0674544,
+    "imageUrl": "public/pharmacies/1. shri sai medicals.png"
+  },
+  {
+    "name": "shree vithall medical",
+    "lat": 21.1026529,
+    "lng": 79.0675751,
+    "imageUrl": "public/pharmacies/2. shree vithall medical.png"
+  },
+  {
+    "name": "Vijayant Medical Stores",
+    "lat": 21.1327848,
+    "lng": 79.1073521,
+    "imageUrl": "public/pharmacies/3. Vijayant Medical Stores.png"
+  },
+  {
+    "name": "Jain Medicals",
+    "lat": 21.1152819,
+    "lng": 79.1127292,
+    "imageUrl": "public/pharmacies/4. Jain Medicals.png"
+  },
+  {
+    "name": "MedPlus Pharmacy",
+    "lat": 21.1175754,
+    "lng": 79.1110412,
+    "imageUrl": "public/pharmacies/5. MedPlus Pharmacy.png"
+  },
+  {
+    "name": "Ambika Medical Store",
+    "lat": 21.3936114,
+    "lng": 79.3265855,
+    "imageUrl": "public/pharmacies/6. Ambika Medical Store.png"
+  },
+  {
+    "name": "Shiv Medicals",
+    "lat": 21.3366131,
+    "lng": 79.3832408,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Rajat Medical Stores",
+    "lat": 21.1235872,
+    "lng": 79.1117779,
+    "imageUrl": "public/pharmacies/8. Rajat Medical Stores.png"
+  },
+  {
+    "name": "Gulmohar Medicals",
+    "lat": 21.1074249,
+    "lng": 79.1033382,
+    "imageUrl": "public/pharmacies/9. Gulmohar Medicals.png"
+  },
+  {
+    "name": "Akshay Medicals",
+    "lat": 21.1093611,
+    "lng": 79.1034298,
+    "imageUrl": "public/pharmacies/10. Akshay Medicals.png"
+  },
+  {
+    "name": "Apollo Pharmacy",
+    "lat": 21.1140325,
+    "lng": 79.1040596,
+    "imageUrl": "public/pharmacies/11. Apollo Pharmacy.png"
+  },
+  {
+    "name": "Ashok Medical Stores",
+    "lat": 21.110802,
+    "lng": 79.103874,
+    "imageUrl": "public/pharmacies/12. Ashok Medical Stores.png"
+  },
+  {
+    "name": "Buniyad Medical Stores",
+    "lat": 21.1151233,
+    "lng": 79.1044118,
+    "imageUrl": "public/pharmacies/13. Buniyad Medical Stores.png"
+  },
+  {
+    "name": "Manish Ayurvedic and General Stores",
+    "lat": 21.1136951,
+    "lng": 79.1040031,
+    "imageUrl": "public/pharmacies/14. Manish Ayurvedic and General Stores.png"
+  },
+  {
+    "name": "MedPlus",
+    "lat": 21.1160497,
+    "lng": 79.1044371,
+    "imageUrl": "public/pharmacies/15. MedPlus.png"
+  },
+  {
+    "name": "Padole Medical Stores",
+    "lat": 21.1149945,
+    "lng": 79.1044239,
+    "imageUrl": "public/pharmacies/16. Padole Medical Stores.png"
+  },
+  {
+    "name": "Sant Gajanan Medical Stores",
+    "lat": 21.1082451,
+    "lng": 79.1033354,
+    "imageUrl": "public/pharmacies/17. Sant Gajanan Medical Stores.png"
+  },
+  {
+    "name": "Shakuntala Medicals",
+    "lat": 21.1123801,
+    "lng": 79.10413,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Vikram Medicals",
+    "lat": 21.1112755,
+    "lng": 79.1036762,
+    "imageUrl": "public/pharmacies/19. Vikram Medicals.png"
+  },
+  {
+    "name": "Ajay Medical Stores",
+    "lat": 21.121496,
+    "lng": 79.105101,
+    "imageUrl": "public/pharmacies/20. Ajay Medical Stores.png"
+
+  },
+  {
+    "name": "Rane Bandhu Aushadhalaya",
+    "address": "South Ambazari Road, Nagpur, 440022",
+    "lat": 21.1260306,
+    "lng": 79.0637495,
+    "phone": "07122220890",
+    "imageUrl": "public/pharmacies/21. rane bandhu aushadhalaya.jpg"
+  },
+  {
+    "name": "Jeevan Jyoti Medicals",
+    "lat": 21.1174664,
+    "lng": 79.1112683,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Jayant Medical and General Stores",
+    "lat": 21.1954532,
+    "lng": 79.1439802,
+    "imageUrl":"public/pharmacies/23. Jayant Medical and General Stores.png"
+  },
+  {
+    "name": "Shree Satguru Medical and General Stores",
+    "lat": 21.1959419,
+    "lng": 79.1439441,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Priyansh Medical Stores",
+    "lat": 21.1960369,
+    "lng": 79.1440004,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "MedPlus",
+    "lat": 21.14584,
+    "lng": 79.1124896,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Goyal Medical and General Stores",
+    "lat": 21.2156547,
+    "lng": 79.194719,
+    "imageUrl": "public/pharmacies/7815.jpg"
+
+  },
+  {
+    "name": "Sanjay Medical and General Stores",
+    "lat": 21.2142413,
+    "lng": 79.1943334,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Vaishali Medical Store",
+    "lat": 21.1979888,
+    "lng": 79.1345751,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Mauli Medical Stores",
+    "lat": 21.1027564,
+    "lng": 79.1131262,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Tirupati Medical Store",
+    "lat": 21.1041314,
+    "lng": 79.1126604,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "MedPlus",
+    "lat": 21.1055184,
+    "lng": 79.1112369,
+    "phone": "+919325716327",
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Prasad Medicos",
+    "lat": 21.1148462,
+    "lng": 79.0570084,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Sachin Medicas",
+    "lat": 21.1147813,
+    "lng": 79.0570084,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "MedPlus",
+    "lat": 21.2544384,
+    "lng": 79.0843124,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "MedPlus",
+    "lat": 21.1915198,
+    "lng": 79.0787703,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "HERD Pharmacy",
+    "address": "Katol Road, Nagpur, 440013",
+    "lat": 21.178089,
+    "lng": 79.0459909,
+    "imageUrl": "public/pharmacies/herd.webp"
+  },
+  {
+    "name": "Ketan Medical",
+    "lat": 21.175792,
+    "lng": 79.041581,
+    "imageUrl": "public/pharmacies/herd.webp"
+  },
+  {
+    "name": "Anjali Pharmacy",
+    "address": "Katol Road, Nagpur, 440013",
+    "lat": 21.1825968,
+    "lng": 79.0357245,
+    "phone": "+917620148876",
+    "imageUrl": "/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Gurunanak Medical Store",
+    "address": "Katol Road, Nagpur, 440013",
+    "lat": 21.1830323,
+    "lng": 79.0345076,
+    "phone": "+919823198123",
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Ambika Medical Store",
+    "address": "Katol Road, Nagpur, 440013",
+    "lat": 21.1792352,
+    "lng": 79.037574,
+    "phone": "+919766913726",
+    "imageUrl": "/pharmacies/Ambika.png"
+  },
+  {
+    "name": "Jagdamba Medical Store",
+    "address": "Katol Road, Nagpur, 440013",
+    "lat": 21.1741766,
+    "lng": 79.0351664,
+    "phone": "+918856818648",
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Raj Medicals",
+    "address": "Nagpur, 441302",
+    "lat": 21.2702018,
+    "lng": 78.5856167,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Sharma Medical",
+    "lat": 21.2442259,
+    "lng": 79.0842744,
+    "imageUrl": "public/pharmacies/7815.jpg"
+ },
+  {
+    "name": "Shree Medical",
+    "address": "Hudkeshwar Road, Nagpur, 440024",
+    "lat": 21.11275,
+    "lng": 79.1143589,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  },
+  {
+    "name": "Sanjivani Medical",
+    "address": "Hudkeshwar Road, Nagpur, 440024",
+    "lat": 21.1130124,
+    "lng": 79.114315,
+    "imageUrl": "public/pharmacies/7815.jpg"
+  }
+]
